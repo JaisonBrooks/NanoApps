@@ -1,2 +1,2 @@
 # NanoApps
-Built a showcase app for future udacity course applications.
+This is a showcase app for all of udacity Nanodegree course applications.
